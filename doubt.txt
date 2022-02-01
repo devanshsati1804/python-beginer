@@ -1,0 +1,3 @@
+1)what is .format()
+2) what is flag= (true , false)
+3)result = list(map(lambda x: 2**x , range(terms)))
